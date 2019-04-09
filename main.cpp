@@ -21,6 +21,10 @@ button.show( );
 =======
 /34r34
 /34r34
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+/34234
 >>>>>>> Stashed changes
 return app.exec( );
 }
