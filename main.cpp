@@ -17,5 +17,10 @@ button.show( );
 //44
 //34
 //3434
+<<<<<<< Updated upstream
+=======
+/34r34
+/34r34
+>>>>>>> Stashed changes
 return app.exec( );
 }
