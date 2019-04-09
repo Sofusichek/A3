@@ -22,9 +22,14 @@ button.show( );
 /34r34
 /34r34
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 /34234
+>>>>>>> Stashed changes
+=======
+/34234
+234234
 >>>>>>> Stashed changes
 return app.exec( );
 }
