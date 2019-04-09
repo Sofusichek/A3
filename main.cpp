@@ -11,9 +11,8 @@ button.show( );
  //1
 //2
 //3
-<<<<<<< Updated upstream
-=======
 //4
->>>>>>> Stashed changes
+//5
+//6
 return app.exec( );
 }
